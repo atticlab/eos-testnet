@@ -14,7 +14,6 @@ do
 done
 
 # Vote
-./cleos.sh system delegatebw voter voter "100000000.0000 SUN" "50000000.0000 SUN"
+./cleos.sh system delegatebw voter voter "100000000.0000 SUN" "100000000.0000 SUN"
 ./cleos.sh system voteproducer prods voter mercuryyyyyy venussssssss earthhhhhhhh marsssssssss jupiterrrrrr saturnnnnnnn uranusssssss neptuneeeeee
-
 
